@@ -12,8 +12,8 @@
 
 # Hal Yang Perlu diperhatikan
 - edit python main.py
-  edit user.id
-  edit edit socks5_proxy_list =
+- edit user.id
+- edit edit socks5_proxy_list =
 
 'socks5://15101226-zone-custom-region-DE-sessid-lcNeFqEu:MQww6IHb@us.922s5.net:6300',
 
